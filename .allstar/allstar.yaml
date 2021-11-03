@@ -1,2 +1,4 @@
 optConfig:
   optIn: true
+  optInRepos:
+  - kkania-splunk/tart
